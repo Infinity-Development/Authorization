@@ -1,0 +1,20 @@
+{
+    "name": "infinity-oauth",
+    "author": "Toxic Dev <contact.toxicdev@gmail.com>",
+    "main": "handler/Initialize.js",
+    "version": "0.0.2",
+    "homepage": "https://infinitybots.gg",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/InfinityBotList/Authorization.git"
+    },
+    "bugs": {
+        "url": "https://github.com/InfinityBotList/Authorization/issues"
+    },
+    "keywords": ["passport", "discord", "authorization"],
+    "dependencies": {
+        "chalk": "^5.0.1",
+        "moment": "^2.29.1",
+        "passport-oauth2": "^1.6.1"
+    }
+}

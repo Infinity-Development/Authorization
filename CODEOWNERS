@@ -1,0 +1,14 @@
+# Main
+README.md @TheRealToxicDev
+CODEOWNERS @TheRealToxicDev
+package.json @TheRealToxicDev
+renovate.json @TheRealToxicDev
+
+# Examples
+examples/ @TheRealToxicDev
+
+# Handlers
+handler/ @TheRealToxicDev
+
+# Source
+source/ @TheRealToxicDev
