@@ -70,8 +70,10 @@ Strategy.prototype.userProfile = function(accessToken, done) {
         return done(new InternalOAuthError('Oops...failed to fetch the user profile from discord.', err));
       }
 
+      let parsedData;
+
       try {
-          const parsedData = JSON.parse(body);
+          parsedData = JSON.parse(body);
       } catch(errc) {
         return done(new Error('Oops...failed to parse the user profile.'))
       }

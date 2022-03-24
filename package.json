@@ -2,7 +2,7 @@
     "name": "infinity-oauth",
     "author": "Toxic Dev <contact.toxicdev@gmail.com>",
     "main": "handler/Initialize.js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "homepage": "https://infinitybots.gg",
     "repository": {
         "type": "git",
